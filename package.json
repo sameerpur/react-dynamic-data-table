@@ -1,5 +1,5 @@
 {
-  "name": "@code-based/react-dynamic-data-table",
+  "name": "react-dynamic-data-table",
   "version": "0.0.0",
   "description": "Re-usable data table for React with sortable columns, pagination and more.",
   "keywords": [
